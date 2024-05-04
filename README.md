@@ -19,3 +19,7 @@ In 2024, I graduated from Purwadikha Digital Technology School's Full-stack Web 
 * 🌍  I'm based in Bandung, Indonesia
 * ✉️  You can contact me at [andretimoti@yahoo.com](mailto:andretimoti@yahoo.com)
 * 🤝  I'm open to collaborating on Any web-based projects
+
+Some of my personal projects:
+-https://react-exercise-kohl.vercel.app/#
+-https://re-pet-sigma.vercel.app/
