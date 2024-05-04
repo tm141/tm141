@@ -21,5 +21,7 @@ In 2024, I graduated from Purwadikha Digital Technology School's Full-stack Web 
 * 🤝  I'm open to collaborating on Any web-based projects
 
 Some of my personal projects:
+
 -https://react-exercise-kohl.vercel.app/#
+
 -https://re-pet-sigma.vercel.app/
