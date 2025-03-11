@@ -17,7 +17,7 @@ However, it was my involvement in the collaborative project between SBR, SEI, an
 In 2024, I graduated from Purwadikha Digital Technology School's Full-stack Web Development Job Connector Program, further enhancing my skills and staying at the forefront of the latest web development trends and technologies. Let's innovate together and shape the future of technology.
 
 * 🌍  I'm based in Bandung, Indonesia
-* ✉️  You can contact me at [andretimoti@yahoo.com](mailto:andretimoti@yahoo.com)
+* ✉️  You can contact me at [andretimoti@yahoo.com](mailto:andretimoti14221@gmail.com)
 * 🤝  I'm open to collaborating on Any web-based projects
 
 Some of my personal projects:
